@@ -15,3 +15,5 @@ matching-core/build.xml
 /map-data/**/*
 bin/
 /matching-core/nbproject/
+**/nohup.out
+map-matcher.log
